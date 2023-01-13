@@ -1,2 +1,4 @@
 File 1 created.
 Modification from new test branch.
+Modifications from master which can conflict with test.
+
