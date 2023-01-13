@@ -1,1 +1,2 @@
 File2 created
+New modifications on master before rebasing.
